@@ -6,7 +6,7 @@ In this project I created dependency graphs for the classes in the majors at MIT
 
 These graphs are stored as HTML files, and when users hover over a bubble they can see the full class name for the course number. When users click on a class, a new tab with the full class description opens.
 
-The aim is to eventually create a web application for users to select a major and then see the corresponding dependency graph for that major.
+You can view it on the web [here](https://www.subhashk.com/class-visualizer/catalog.html) 
 
 I utilized the Plotly and iGraph Python libraries extensively for this project.
 
