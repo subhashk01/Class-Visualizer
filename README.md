@@ -8,7 +8,7 @@ These graphs are stored as HTML files, and when users hover over a bubble they c
 
 You can view it on the web [here](https://www.subhashk.com/class-visualizer/catalog.html) 
 
-I utilized the Plotly and iGraph Python libraries extensively for this project.
+I utilized the Plotly, iGraph, and Beautiful Soup Python libraries extensively for this project.
 
 Hope you enjoy!
 
